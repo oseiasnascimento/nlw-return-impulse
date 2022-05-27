@@ -41,4 +41,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com ♥ by birobirobiro :wave:
+Feito com ♥ by Oseias Saboia :wave:
