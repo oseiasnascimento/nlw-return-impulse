@@ -21,8 +21,11 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- @vitejs
 - ReactJS
-- NodeJS
+- TypeScript
+- Tailwindcss
+- Tailwindcss Scrollbar
 - HTML
 - CSS
 - JavaScript
